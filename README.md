@@ -1,0 +1,3 @@
+- Built with HTML, CSS, and JavaScript to display a real-time analog clock.
+- Features animated clock hands and a customizable background image.
+- Simple, responsive design suitable for web integration or personal projects.
